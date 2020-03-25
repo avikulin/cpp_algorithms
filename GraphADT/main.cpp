@@ -1,7 +1,6 @@
 #include <iostream>
 
 using namespace std;
-#include "interfaces/base_vertex.h"
 
 int main()
 {
